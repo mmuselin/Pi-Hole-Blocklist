@@ -1,142 +1,142 @@
 ! LG TV Block LIST
-Ngfts.lege.com^
-Lgad.cjpowercast.com^
-Edgesuite.net^
-ro.rdx2.lgtvsdp.com^
-ro.ad.lgsmartad.com^
-ad.lgappstv.com^
-ibis.lgappstv.com^
-lgad.cjpowercast.com.edgesuite.net^
-smartclip.com^
-smartclip.net^
-smartshare.lgtvsdp.com^
-yumenetworks.com^
-aic.recommend.lgtvcommon.com^
-aic.sports.lgtviot.com^
-images.pluto.tv^
-discovery.meethue.com^
-aic.homeprv.lgtvcommon.com^
-ic.lgtviot.com^
-aic.nudge.lgtvcommon.com^
-www.ueiwsp.com^
-unagi-na.amazon.com^
-ipv6.unagi-na.amazon.com^
-aic-gfts.lge.com^
-aic-op-lss.lgthinq.com^
-lss.lgthinq.com^
-aic.api.lgtviot.com^
-common.lgthinq.com^
-canvas.tubitv.com^
-qt2-ngfts.lge.com^
-img.nvidiagrid.net^
-cdn77.utomik.com^
-i.ibb.co^
-aic.wiseconfig.lgtvcommon.com^
-images.redbox.com^
-aic-ngfts.lge.com^
-lgtvonline.lge.com^
-#snu.lge.com^
-aic.rdl.lgtvcommon.com^
-developers.google.com^
-service.idsync.analytics.yahoo.com^
-mindfieldonline.com^
-nevoai-iothub-54-prod.azure-devices.net^
-threeplr-avuypkjypveaj-0.api.amazonvideo.com^
-cloudfront.xp-assets.aiv-cdn.net^
-cf-trickplay.aux.pv-cdn.net^
-s3-iad-2.cf.dash.row.aiv-cdn.net^
-#mediaservices.cdn-apple.com^
+0.0.0.0 Ngfts.lege.com^
+0.0.0.0 Lgad.cjpowercast.com^
+0.0.0.0 Edgesuite.net^
+0.0.0.0 ro.rdx2.lgtvsdp.com^
+0.0.0.0 ro.ad.lgsmartad.com^
+0.0.0.0 ad.lgappstv.com^
+0.0.0.0 ibis.lgappstv.com^
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net^
+0.0.0.0 smartclip.com^
+0.0.0.0 smartclip.net^
+0.0.0.0 smartshare.lgtvsdp.com^
+0.0.0.0 yumenetworks.com^
+0.0.0.0 aic.recommend.lgtvcommon.com^
+0.0.0.0 aic.sports.lgtviot.com^
+0.0.0.0 images.pluto.tv^
+0.0.0.0 discovery.meethue.com^
+0.0.0.0 aic.homeprv.lgtvcommon.com^
+0.0.0.0 ic.lgtviot.com^
+0.0.0.0 aic.nudge.lgtvcommon.com^
+0.0.0.0 www.ueiwsp.com^
+0.0.0.0 unagi-na.amazon.com^
+0.0.0.0 ipv6.unagi-na.amazon.com^
+0.0.0.0 aic-gfts.lge.com^
+0.0.0.0 aic-op-lss.lgthinq.com^
+0.0.0.0 lss.lgthinq.com^
+0.0.0.0 aic.api.lgtviot.com^
+0.0.0.0 common.lgthinq.com^
+0.0.0.0 canvas.tubitv.com^
+0.0.0.0 qt2-ngfts.lge.com^
+0.0.0.0 img.nvidiagrid.net^
+0.0.0.0 cdn77.utomik.com^
+0.0.0.0 i.ibb.co^
+0.0.0.0 aic.wiseconfig.lgtvcommon.com^
+0.0.0.0 images.redbox.com^
+0.0.0.0 aic-ngfts.lge.com^
+0.0.0.0 lgtvonline.lge.com^
+#0.0.0.0 snu.lge.com^
+0.0.0.0 aic.rdl.lgtvcommon.com^
+0.0.0.0 developers.google.com^
+0.0.0.0 service.idsync.analytics.yahoo.com^
+0.0.0.0 mindfieldonline.com^
+0.0.0.0 nevoai-iothub-54-prod.azure-devices.net^
+0.0.0.0 threeplr-avuypkjypveaj-0.api.amazonvideo.com^
+0.0.0.0 cloudfront.xp-assets.aiv-cdn.net^
+0.0.0.0 cf-trickplay.aux.pv-cdn.net^
+0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net^
+#0.0.0.0 mediaservices.cdn-apple.com^
 ! END - LG TV Block LIST
-www.googleadservices.com^
-www.googleadservices.com^$important
-ade.googlesyndication.com^$important
-m.media-amazon.com^$important
-eic-ngfts.lge.com^$important
-eic.recommend.lgtvcommon.com^$important
-push.prod.netflix.com^$important
-eligibility-panelresearch.googlevideo.com^$important
-eic.sports.lgtviot.com^$important
+0.0.0.0 www.googleadservices.com^
+0.0.0.0 www.googleadservices.com^$important
+0.0.0.0 ade.googlesyndication.com^$important
+0.0.0.0 m.media-amazon.com^$important
+0.0.0.0 eic-ngfts.lge.com^$important
+0.0.0.0 eic.recommend.lgtvcommon.com^$important
+0.0.0.0 push.prod.netflix.com^$important
+0.0.0.0 eligibility-panelresearch.googlevideo.com^$important
+0.0.0.0 eic.sports.lgtviot.com^$important
 ! -- Nu bloca - www.gstatic.com - e pentru iconite din youtube
-#www.gstatic.com^$important
+#0.0.0.0 www.gstatic.com^$important
 ! ---------------
-samsungads.ro^
-config.samsungads.com^
-! -- log-config.samsungacr.com^
-ads.samsung.com^
-gpm.samsungqbe.com^
-samsung.com^
-samsungacr.com^
-samsungads.com^
-samsungotn.net^
-www.samsung.net^
-www.samsung.net/ads^
-samsungadhub.com^
-asamsungtifa.com^
-samsungotn.net^
-samsungacr.com^
-#samsungcloudsolution.com^
-#samsungcloudsolution.net^
-#samsungcloudcdn.com^
-samsungelectronics.com^
-static.doubleclick.net^
-tvx.adgrx.com^
-otnprd11.samsungcloudsolution.net^$important
-otnprd8.samsungcloudsolution.net^$important
-otnprd10.samsungcloudsolution.net^
-otnprd9.samsungcloudsolution.net^
-lcstg1.samsungcloudsolution.net^$important
-lcprd1.samsungcloudsolution.net^$important
-log-ingestion-eu.samsungacr.com^
-lh3.googleusercontent.com^$important
-nrdp-ipv6.prod.ftl.netflix.com^$important
-rr5---sn-gqn-ungs.googlevideo.com^$important
-yt3.ggpht.com^$important
-samsungtvads.com^
-#api-global.netflix.com^$important
-281b1ab2-4905-460e-ba46-042f613f5ed3-panelresearch.googlevideo.com^$important
-nevoai-iothub-60-prod.azure-devices.net^$important
-6dbb3fcb-dcdb-424e-9168-21a8493b4770-panelresearch.googlevideo.com^$important
-#ro.lgeapi.com^$important
-play.google.com^$important
-pagead2.googlesyndication.com^$important
-tpc.googlesyndication.com^$important
-ad.doubleclick.net^$important
-googleads.g.doubleclick.net^$important
-15c89c66-d6f7-428c-8319-94d3436f9e91-panelresearch.googlevideo.com^$important
-redirector.googlevideo.com^$important
-ocsp.r2m01.amazontrust.com^$important
-unagi-eu.amazon.com^$important
-device-metrics-us-2.amazon.com^$important
-#ro.lgtvsdp.com^$important
-1.1.168.192.in-addr.arpa^$important
-46.1.168.192.in-addr.arpa^$important
-68.1.168.192.in-addr.arpa^$important
-41.1.168.192.in-addr.arpa^$important
-nrdp51-appboot.netflix.com^$important
-6eae2bf1-baec-4ae1-bc28-2f0df9455550-panelresearch.googlevideo.com^$important
-eic.wiseconfig.lgtvcommon.com^$important
-tools.google.com^$important
-eic.lgtviot.com^$important
-clients1.google.com^$important
-nrdp-cell4.prod.ftl.netflix.com^$important
-customerevents.netflix.com^$important
-a21b3410-c937-4aaa-ac42-77e469f8d492-panelresearch.googlevideo.com^$important
-#occ-0-3027-3467.1.nflxso.net^$important
-#nrdp.nccp.netflix.com^$important
-#cdn.samsungcloudsolution.com^$important
-c3cc13bf-3ece-42b9-a990-1fe8e0754039-panelresearch.googlevideo.com^$important
-cfc1ac93-5844-4eec-96ce-5d11473e62f1-panelresearch.googlevideo.com^$important
-2115039b-e7b4-4d84-8d3e-0a105e2f602d-panelresearch.googlevideo.com^$important
-79.1.168.192.in-addr.arpa^$important
-59.1.168.192.in-addr.arpa^$important
-76.1.168.192.in-addr.arpa^$important
-60.1.168.192.in-addr.arpa^$important
-49.1.168.192.in-addr.arpa^$important
-75.1.168.192.in-addr.arpa^$important
-eu.api.amazonvideo.com^$important
-ign-a1gkqurewze22m-11d6d2022060218davpk-03d34d652d5d1lg6d2d2.api.amazonvideo.com^$important
-api.amazon.com^$important
-threeplr-a1gkqurewze22m-0.api.amazonvideo.com^$important
+0.0.0.0 samsungads.ro^
+0.0.0.0 config.samsungads.com^
+! -- 0.0.0.0 log-config.samsungacr.com^
+0.0.0.0 ads.samsung.com^
+0.0.0.0 gpm.samsungqbe.com^
+0.0.0.0 samsung.com^
+0.0.0.0 samsungacr.com^
+0.0.0.0 samsungads.com^
+0.0.0.0 samsungotn.net^
+0.0.0.0 www.samsung.net^
+0.0.0.0 www.samsung.net/ads^
+0.0.0.0 samsungadhub.com^
+0.0.0.0 asamsungtifa.com^
+0.0.0.0 samsungotn.net^
+0.0.0.0 samsungacr.com^
+#0.0.0.0 samsungcloudsolution.com^
+#0.0.0.0 samsungcloudsolution.net^
+#0.0.0.0 samsungcloudcdn.com^
+0.0.0.0 samsungelectronics.com^
+0.0.0.0 static.doubleclick.net^
+0.0.0.0 tvx.adgrx.com^
+0.0.0.0 otnprd11.samsungcloudsolution.net^$important
+0.0.0.0 otnprd8.samsungcloudsolution.net^$important
+0.0.0.0 otnprd10.samsungcloudsolution.net^
+0.0.0.0 otnprd9.samsungcloudsolution.net^
+0.0.0.0 lcstg1.samsungcloudsolution.net^$important
+0.0.0.0 lcprd1.samsungcloudsolution.net^$important
+0.0.0.0 log-ingestion-eu.samsungacr.com^
+0.0.0.0 lh3.googleusercontent.com^$important
+0.0.0.0 nrdp-ipv6.prod.ftl.netflix.com^$important
+0.0.0.0 rr5---sn-gqn-ungs.googlevideo.com^$important
+0.0.0.0 yt3.ggpht.com^$important
+0.0.0.0 samsungtvads.com^
+#0.0.0.0 api-global.netflix.com^$important
+0.0.0.0 281b1ab2-4905-460e-ba46-042f613f5ed3-panelresearch.googlevideo.com^$important
+0.0.0.0 nevoai-iothub-60-prod.azure-devices.net^$important
+0.0.0.0 6dbb3fcb-dcdb-424e-9168-21a8493b4770-panelresearch.googlevideo.com^$important
+#0.0.0.0 ro.lgeapi.com^$important
+0.0.0.0 play.google.com^$important
+0.0.0.0 pagead2.googlesyndication.com^$important
+0.0.0.0 tpc.googlesyndication.com^$important
+0.0.0.0 ad.doubleclick.net^$important
+0.0.0.0 googleads.g.doubleclick.net^$important
+0.0.0.0 15c89c66-d6f7-428c-8319-94d3436f9e91-panelresearch.googlevideo.com^$important
+0.0.0.0 redirector.googlevideo.com^$important
+0.0.0.0 ocsp.r2m01.amazontrust.com^$important
+0.0.0.0 unagi-eu.amazon.com^$important
+0.0.0.0 device-metrics-us-2.amazon.com^$important
+#0.0.0.0 ro.lgtvsdp.com^$important
+0.0.0.0 1.1.168.192.in-addr.arpa^$important
+0.0.0.0 46.1.168.192.in-addr.arpa^$important
+0.0.0.0 68.1.168.192.in-addr.arpa^$important
+0.0.0.0 41.1.168.192.in-addr.arpa^$important
+0.0.0.0 nrdp51-appboot.netflix.com^$important
+0.0.0.0 6eae2bf1-baec-4ae1-bc28-2f0df9455550-panelresearch.googlevideo.com^$important
+0.0.0.0 eic.wiseconfig.lgtvcommon.com^$important
+0.0.0.0 tools.google.com^$important
+0.0.0.0 eic.lgtviot.com^$important
+0.0.0.0 clients1.google.com^$important
+0.0.0.0 nrdp-cell4.prod.ftl.netflix.com^$important
+0.0.0.0 customerevents.netflix.com^$important
+0.0.0.0 a21b3410-c937-4aaa-ac42-77e469f8d492-panelresearch.googlevideo.com^$important
+#0.0.0.0 occ-0-3027-3467.1.nflxso.net^$important
+#0.0.0.0 nrdp.nccp.netflix.com^$important
+#0.0.0.0 cdn.samsungcloudsolution.com^$important
+0.0.0.0 c3cc13bf-3ece-42b9-a990-1fe8e0754039-panelresearch.googlevideo.com^$important
+0.0.0.0 cfc1ac93-5844-4eec-96ce-5d11473e62f1-panelresearch.googlevideo.com^$important
+0.0.0.0 2115039b-e7b4-4d84-8d3e-0a105e2f602d-panelresearch.googlevideo.com^$important
+0.0.0.0 79.1.168.192.in-addr.arpa^$important
+0.0.0.0 59.1.168.192.in-addr.arpa^$important
+0.0.0.0 76.1.168.192.in-addr.arpa^$important
+0.0.0.0 60.1.168.192.in-addr.arpa^$important
+0.0.0.0 49.1.168.192.in-addr.arpa^$important
+0.0.0.0 75.1.168.192.in-addr.arpa^$important
+0.0.0.0 eu.api.amazonvideo.com^$important
+0.0.0.0 ign-a1gkqurewze22m-11d6d2022060218davpk-03d34d652d5d1lg6d2d2.api.amazonvideo.com^$important
+0.0.0.0 api.amazon.com^$important
+0.0.0.0 threeplr-a1gkqurewze22m-0.api.amazonvideo.com^$important
 
 
 
