@@ -137,6 +137,42 @@
 
 127.0.0.1 r*.Googlevideo.com
 
+
+#/^r\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+
+/^r\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+
+/^r\d+\.sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+
+/^r\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.googlevideo\.com$/
+
+/^r\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.gvt1\.com$/
+
+#/^r\d+-+sn+-+[a-z0-9]+\.googlevideo\.com$/
+
+/^r\d+-+sn+-+[a-z0-9]+\.gvt1\.com$/
+
+/^rr\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+
+#/^rr\d+\.sn+-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+
+/^rr\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+
+/^rr\d+\.sn+-+[a-z0-9]+-+[a-z0-9]+\.gvt1\.com$/
+
+/^rr\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.googlevideo\.com$/
+
+/^rr\d+\.sn+-+[a-z0-9]+\.[a-z]+\.[a-z]+\.gvt1\.com$/
+
+#/^rr\d+-+sn+-+[a-z0-9]+\.googlevideo\.com$/
+
+/^rr\d+-+sn+-+[a-z0-9]+\.gvt1\.com$/
+
+/^yt\d+\.ggpht\.com$/
+
+/^pagead\d+\.googlesyndication\.com$/
+
+
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pixel.moatads.com
 127.0.0.1 pagead.l.doubleclick.net
