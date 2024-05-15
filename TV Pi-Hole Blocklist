@@ -133,7 +133,9 @@
 # Title: 
 #
 0.0.0.0 rr*.*.googlevideo.com
+0.0.0.0 r*.*.googlevideo.com
 
+0.0.0.0 r*.Googlevideo.com
 
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pixel.moatads.com
