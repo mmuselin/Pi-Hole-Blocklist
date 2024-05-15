@@ -136,7 +136,7 @@
 127.0.0.1 r*.*.googlevideo.com
 
 127.0.0.1 r*.Googlevideo.com
-
+127.0.0.1 rr*.Googlevideo.com
 
 #/^r\d+-+sn+-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
 
