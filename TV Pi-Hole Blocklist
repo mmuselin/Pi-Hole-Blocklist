@@ -220,7 +220,6 @@
 127.0.0.1 ocsp.r2m01.amazontrust.com^$important
 127.0.0.1 unagi-eu.amazon.com^$important
 127.0.0.1 device-metrics-us-2.amazon.com^$important
-#127.0.0.1 ro.lgtvsdp.com^$important
 127.0.0.1 1.1.168.192.in-addr.arpa^$important
 127.0.0.1 46.1.168.192.in-addr.arpa^$important
 127.0.0.1 68.1.168.192.in-addr.arpa^$important
